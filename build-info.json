@@ -1,0 +1,14 @@
+{
+  "frameworks": [],
+  "settings": [],
+  "buildSystems": [],
+  "packageManager": {
+    "name": "bun",
+    "installCommand": "bun install",
+    "runCommand": "bun run",
+    "lockFiles": [
+      "bun.lockb",
+      "bun.lock"
+    ]
+  }
+}
